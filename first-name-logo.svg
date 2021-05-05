@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="first-name-logo.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="43.123717"
+       y="104.83048"
+       width="24.459142"
+       height="11.895759"
+       id="rect841" />
+    <rect
+       x="42.319053"
+       y="88.464054"
+       width="26.224831"
+       height="12.529173"
+       id="rect835" />
+    <rect
+       x="42.319053"
+       y="88.464054"
+       width="37.407784"
+       height="14.308895"
+       id="rect864" />
+    <rect
+       x="42.319053"
+       y="88.464054"
+       width="52.544405"
+       height="15.363995"
+       id="rect870" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="122.90852"
+     inkscape:cy="468.37162"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1336"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text839"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect841);" />
+    <g
+       id="g878"
+       transform="translate(22.418246,5.5598708)"
+       inkscape:export-xdpi="95.599998"
+       inkscape:export-ydpi="95.599998">
+      <text
+         xml:space="preserve"
+         id="text833"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect835);fill:#787878;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="translate(-42.720525,10.635495)"><tspan
+           x="42.318359"
+           y="97.502982"><tspan
+             style="fill:#787878;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Open</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text862"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect864);fill:#296aef;fill-opacity:1;stroke:none;"
+         transform="translate(-43.15444,19.262625)"><tspan
+           x="42.318359"
+           y="97.502982"><tspan
+             style="fill:#296aef;fill-opacity:1">Biology</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text868"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect870);fill:#e60b22;fill-opacity:0.830933;stroke:none;"
+         transform="translate(-43.21794,28.106562)"><tspan
+           x="42.318359"
+           y="97.502982"><tspan
+             style="fill:#e60b22;fill-opacity:0.830933">University</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
